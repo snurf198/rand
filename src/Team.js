@@ -48,7 +48,7 @@ const Team = () => {
                             return res !== team_selected;              
                         });
                         console.log(team_selected);
-                        console.log(team_list_temp);
+                        console.log(".");
                     }
                 }, 5000);
             }, 3000);
